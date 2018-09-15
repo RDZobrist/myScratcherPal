@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/robertzobrist/workspace/myScratcherPal/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/robertzobrist/workspace/myScratcherPal/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/robertzobrist/workspace/myScratcherPal/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/robertzobrist/workspace/myScratcherPal/node_modules/react-native/React/Base/RCTAssert.h

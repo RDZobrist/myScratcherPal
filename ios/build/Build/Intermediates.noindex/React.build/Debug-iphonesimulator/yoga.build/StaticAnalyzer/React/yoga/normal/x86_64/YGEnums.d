@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/robertzobrist/workspace/my_scratcher_pal/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
+  /Users/robertzobrist/workspace/my_scratcher_pal/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/robertzobrist/workspace/my_scratcher_pal/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
